@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5sGe+d+yF8XD6XZClhs7mlZ767E6L7J2wobNANu/ovPGoRifEoqv1J1vR3vYsWbZsX78yp/YYgdP0p+fPOgCtw==",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\Zionet\\C#\\CosmosDbExample\\CosmosDbExample.Model\\CosmosDbExample.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\97252\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+D:\Programming\Zionet\C#\CosmosDbExample\CosmosDbExample.Model\bin\Debug\net6.0\CosmosDbExample.Model.deps.json
+D:\Programming\Zionet\C#\CosmosDbExample\CosmosDbExample.Model\bin\Debug\net6.0\CosmosDbExample.Model.dll
+D:\Programming\Zionet\C#\CosmosDbExample\CosmosDbExample.Model\bin\Debug\net6.0\CosmosDbExample.Model.pdb
+D:\Programming\Zionet\C#\CosmosDbExample\CosmosDbExample.Model\obj\Debug\net6.0\CosmosDbExample.Model.csproj.AssemblyReference.cache
+D:\Programming\Zionet\C#\CosmosDbExample\CosmosDbExample.Model\obj\Debug\net6.0\CosmosDbExample.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Zionet\C#\CosmosDbExample\CosmosDbExample.Model\obj\Debug\net6.0\CosmosDbExample.Model.AssemblyInfoInputs.cache
+D:\Programming\Zionet\C#\CosmosDbExample\CosmosDbExample.Model\obj\Debug\net6.0\CosmosDbExample.Model.AssemblyInfo.cs
+D:\Programming\Zionet\C#\CosmosDbExample\CosmosDbExample.Model\obj\Debug\net6.0\CosmosDbExample.Model.csproj.CoreCompileInputs.cache
+D:\Programming\Zionet\C#\CosmosDbExample\CosmosDbExample.Model\obj\Debug\net6.0\CosmosDbExample.Model.dll
+D:\Programming\Zionet\C#\CosmosDbExample\CosmosDbExample.Model\obj\Debug\net6.0\refint\CosmosDbExample.Model.dll
+D:\Programming\Zionet\C#\CosmosDbExample\CosmosDbExample.Model\obj\Debug\net6.0\CosmosDbExample.Model.pdb
+D:\Programming\Zionet\C#\CosmosDbExample\CosmosDbExample.Model\obj\Debug\net6.0\ref\CosmosDbExample.Model.dll
